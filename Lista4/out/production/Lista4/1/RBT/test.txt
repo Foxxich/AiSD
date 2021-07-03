@@ -1,0 +1,17 @@
+ 
+ 
+Find - 0
+Find  - 1
+Max tet
+Min aaa
+Successor test
+Max bbb
+Min bbb
+Find - 0
+Find  - 1
+Find  - 1
+Find  - 1
+Find  - 1
+Max two
+Min First
+Find  - 1

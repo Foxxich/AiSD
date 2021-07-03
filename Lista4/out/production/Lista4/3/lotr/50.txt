@@ -1,0 +1,20 @@
+bucketNumber: 409600
+actualSize: 188541
+
+Number of compares insert: 4986267
+Number of compares delete: 4
+Number of compares search: 162
+
+Time insert: 3470427043
+Time delete: 14500
+Time search: 533099
+
+Count of inserts: 475240
+Count of deletes: 1
+Count of searches: 56
+
+Successful searches: 56
+Max number of elements: 475239
+Current number of elements: 475239
+
+Size of hMap: 188541

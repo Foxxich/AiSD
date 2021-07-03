@@ -1,0 +1,700 @@
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 236300
+Execution time in milliseconds  : 0.2363
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 556500
+Execution time in milliseconds  : 0.5565
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 274800
+Execution time in milliseconds  : 0.2748
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 578200
+Execution time in milliseconds  : 0.5782
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 739200
+Execution time in milliseconds  : 0.7392
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 1155800
+Execution time in milliseconds  : 1.1558
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 1711400
+Execution time in milliseconds  : 1.7114
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 2619100
+Execution time in milliseconds  : 2.6191
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 253100
+Execution time in milliseconds  : 0.2531
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 108100
+Execution time in milliseconds  : 0.1081
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 128900
+Execution time in milliseconds  : 0.1289
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 149000
+Execution time in milliseconds  : 0.149
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 172800
+Execution time in milliseconds  : 0.1728
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 334900
+Execution time in milliseconds  : 0.3349
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 222800
+Execution time in milliseconds  : 0.2228
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 249100
+Execution time in milliseconds  : 0.2491
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 295200
+Execution time in milliseconds  : 0.2952
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 325400
+Execution time in milliseconds  : 0.3254
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 354800
+Execution time in milliseconds  : 0.3548
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 435500
+Execution time in milliseconds  : 0.4355
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 426600
+Execution time in milliseconds  : 0.4266
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 461900
+Execution time in milliseconds  : 0.4619
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 504800
+Execution time in milliseconds  : 0.5048
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 563700
+Execution time in milliseconds  : 0.5637
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 591300
+Execution time in milliseconds  : 0.5913
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 909000
+Execution time in milliseconds  : 0.909
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 820000
+Execution time in milliseconds  : 0.82
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 791800
+Execution time in milliseconds  : 0.7918
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 824000
+Execution time in milliseconds  : 0.824
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 844500
+Execution time in milliseconds  : 0.8445
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 899300
+Execution time in milliseconds  : 0.8993
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 952400
+Execution time in milliseconds  : 0.9524
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 1012400
+Execution time in milliseconds  : 1.0124
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 1074500
+Execution time in milliseconds  : 1.0745
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 1139700
+Execution time in milliseconds  : 1.1397
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 1320800
+Execution time in milliseconds  : 1.3208
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 1315400
+Execution time in milliseconds  : 1.3154
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 1328100
+Execution time in milliseconds  : 1.3281
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 1400400
+Execution time in milliseconds  : 1.4004
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 1761300
+Execution time in milliseconds  : 1.7613
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 1569700
+Execution time in milliseconds  : 1.5697
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 3052400
+Execution time in milliseconds  : 3.0524
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 1854200
+Execution time in milliseconds  : 1.8542
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 1770700
+Execution time in milliseconds  : 1.7707
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 1804800
+Execution time in milliseconds  : 1.8048
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 2515400
+Execution time in milliseconds  : 2.5154
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 2055900
+Execution time in milliseconds  : 2.0559
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 2369600
+Execution time in milliseconds  : 2.3696
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 2340300
+Execution time in milliseconds  : 2.3403
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 3414100
+Execution time in milliseconds  : 3.4141
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 2415600
+Execution time in milliseconds  : 2.4156
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 2619900
+Execution time in milliseconds  : 2.6199
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 2636000
+Execution time in milliseconds  : 2.636
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 2815700
+Execution time in milliseconds  : 2.8157
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 2842000
+Execution time in milliseconds  : 2.842
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 3227700
+Execution time in milliseconds  : 3.2277
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 3075400
+Execution time in milliseconds  : 3.0754
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 3135100
+Execution time in milliseconds  : 3.1351
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 3201800
+Execution time in milliseconds  : 3.2018
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 3682400
+Execution time in milliseconds  : 3.6824
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 3402900
+Execution time in milliseconds  : 3.4029
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 3416200
+Execution time in milliseconds  : 3.4162
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 3460900
+Execution time in milliseconds  : 3.4609
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 3606000
+Execution time in milliseconds  : 3.606
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 3639600
+Execution time in milliseconds  : 3.6396
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 4050700
+Execution time in milliseconds  : 4.0507
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 7636200
+Execution time in milliseconds  : 7.6362
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 4131000
+Execution time in milliseconds  : 4.131
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 4281200
+Execution time in milliseconds  : 4.2812
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 4460700
+Execution time in milliseconds  : 4.4607
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 4811200
+Execution time in milliseconds  : 4.8112
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 4871000
+Execution time in milliseconds  : 4.871
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 5252900
+Execution time in milliseconds  : 5.2529
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 5191700
+Execution time in milliseconds  : 5.1917
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 5502000
+Execution time in milliseconds  : 5.502
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 5077600
+Execution time in milliseconds  : 5.0776
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 5291800
+Execution time in milliseconds  : 5.2918
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 5356900
+Execution time in milliseconds  : 5.3569
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 5438200
+Execution time in milliseconds  : 5.4382
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 6406200
+Execution time in milliseconds  : 6.4062
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 6142000
+Execution time in milliseconds  : 6.142
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 8121700
+Execution time in milliseconds  : 8.1217
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 8784000
+Execution time in milliseconds  : 8.784
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 6634100
+Execution time in milliseconds  : 6.6341
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 6571100
+Execution time in milliseconds  : 6.5711
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 7018100
+Execution time in milliseconds  : 7.0181
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 6792900
+Execution time in milliseconds  : 6.7929
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 7292000
+Execution time in milliseconds  : 7.292
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 7422900
+Execution time in milliseconds  : 7.4229
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 7528800
+Execution time in milliseconds  : 7.5288
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 7932800
+Execution time in milliseconds  : 7.9328
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 8240100
+Execution time in milliseconds  : 8.2401
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 8060900
+Execution time in milliseconds  : 8.0609
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 8466300
+Execution time in milliseconds  : 8.4663
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 8274300
+Execution time in milliseconds  : 8.2743
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 8577000
+Execution time in milliseconds  : 8.577
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 8435300
+Execution time in milliseconds  : 8.4353
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 9036100
+Execution time in milliseconds  : 9.0361
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 9589800
+Execution time in milliseconds  : 9.5898
+Compares 0
+Moves 0
+
+For k = 1
+Quicksort for n 0 operation ascending
+Execution time in nanoseconds  : 9240600
+Execution time in milliseconds  : 9.2406
+Compares 0
+Moves 0
+

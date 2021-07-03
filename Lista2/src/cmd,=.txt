@@ -1,0 +1,7 @@
+java Main --type hybrid --comp "" test.txt
+
+Main --type hybrid --comp ">=" test.txt 10
+
+Main --type hybrid --comp "<=" test.txt 10
+
+java Main --type hybrid --comp ">=" test.txt 30

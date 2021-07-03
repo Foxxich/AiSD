@@ -1,0 +1,3 @@
+https://www.wolframalpha.com/input/?i=log2%28821115%29
+
+20 * 55 = 1100

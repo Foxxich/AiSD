@@ -1,0 +1,4 @@
+https://www.wolframalpha.com/input/?i=log2%28125982%29
+
+log2(125982) = 17
+17 * 64 = 1088

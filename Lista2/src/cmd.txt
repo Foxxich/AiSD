@@ -1,0 +1,1 @@
+java Main --type hybrid --comp "<=" result.txt 100

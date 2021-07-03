@@ -1,0 +1,3 @@
+hmap
+load KJB.txt
+inorder

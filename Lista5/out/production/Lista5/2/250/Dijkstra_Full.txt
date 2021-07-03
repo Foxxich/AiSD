@@ -1,0 +1,200 @@
+For i 1
+Compares 4070
+Time 9329900
+
+For i 2
+Compares 4070
+Time 6047299
+
+For i 3
+Compares 4070
+Time 2944900
+
+For i 4
+Compares 4070
+Time 2831300
+
+For i 5
+Compares 4070
+Time 2604900
+
+For i 6
+Compares 4070
+Time 2425200
+
+For i 7
+Compares 4070
+Time 2365900
+
+For i 8
+Compares 4070
+Time 2597400
+
+For i 9
+Compares 4070
+Time 2563900
+
+For i 10
+Compares 4070
+Time 2678001
+
+For i 11
+Compares 4070
+Time 3406801
+
+For i 12
+Compares 4070
+Time 3187199
+
+For i 13
+Compares 4070
+Time 3411500
+
+For i 14
+Compares 4070
+Time 2588399
+
+For i 15
+Compares 4070
+Time 2385100
+
+For i 16
+Compares 4070
+Time 2536301
+
+For i 17
+Compares 4070
+Time 3650500
+
+For i 18
+Compares 4070
+Time 4097500
+
+For i 19
+Compares 4070
+Time 3616600
+
+For i 20
+Compares 4070
+Time 2274100
+
+For i 21
+Compares 4070
+Time 2543000
+
+For i 22
+Compares 4070
+Time 3192899
+
+For i 23
+Compares 4070
+Time 4036500
+
+For i 24
+Compares 4070
+Time 2925300
+
+For i 25
+Compares 4070
+Time 2411800
+
+For i 26
+Compares 4070
+Time 2893000
+
+For i 27
+Compares 4070
+Time 5642501
+
+For i 28
+Compares 4070
+Time 1882699
+
+For i 29
+Compares 4070
+Time 2043300
+
+For i 30
+Compares 4070
+Time 1833599
+
+For i 31
+Compares 4070
+Time 1938600
+
+For i 32
+Compares 4070
+Time 2339299
+
+For i 33
+Compares 4070
+Time 2419100
+
+For i 34
+Compares 4070
+Time 2235599
+
+For i 35
+Compares 4070
+Time 1587800
+
+For i 36
+Compares 4070
+Time 1915700
+
+For i 37
+Compares 4070
+Time 2334601
+
+For i 38
+Compares 4070
+Time 2902001
+
+For i 39
+Compares 4070
+Time 4435000
+
+For i 40
+Compares 4070
+Time 1912099
+
+For i 41
+Compares 4070
+Time 2480699
+
+For i 42
+Compares 4070
+Time 2561999
+
+For i 43
+Compares 4070
+Time 2042499
+
+For i 44
+Compares 4070
+Time 1816299
+
+For i 45
+Compares 4070
+Time 3626100
+
+For i 46
+Compares 4070
+Time 1455300
+
+For i 47
+Compares 4070
+Time 2017001
+
+For i 48
+Compares 4070
+Time 1844699
+
+For i 49
+Compares 4070
+Time 2616499
+
+For i 50
+Compares 4070
+Time 3067500
+

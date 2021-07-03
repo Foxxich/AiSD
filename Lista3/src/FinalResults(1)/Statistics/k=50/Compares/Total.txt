@@ -1,0 +1,11 @@
+AVG RandomSelect(permutation)
+34433.0 300.0 10591.0 7224.0 50.0
+
+AVG RandomSelect(random)
+34161.0 304.0 10544.0 7162.0 50.0
+
+AVG Select(permutation)
+731.0 26.0 428.0 187.0 50.0
+
+AVG Select(random)
+752.0 27.0 430.0 190.0 50.0

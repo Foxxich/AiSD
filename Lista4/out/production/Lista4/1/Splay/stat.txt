@@ -1,0 +1,23 @@
+Total time 47072399
+Inserts 59
+Delete  5
+Inorder  1
+Find  8
+Max  4
+Min  4
+Successor  1
+Max number of elements 56
+Final number of elements 54
+Insert time 4242
+Delete time 3759
+Inorder time 12321699
+Find time 55812
+Max time 1064475
+Min time 57175
+Successor time 122401
+Total compares Insert 58
+Total compares Delete 5
+Total compares Find 34
+Total compares Max 4
+Total compares Min 4
+Total compares Successor 3

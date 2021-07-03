@@ -1,0 +1,7 @@
+Korzystajac ze skriptu, obliczamy ze srednia liczna porownan dla sredniego n (n/100 jest 505000) wynosi 114017.03. Podstawiajac do Wolfram, 
+mamy https://www.wolframalpha.com/input/?i=x*5050*log2%285050%29+%3D+114000
+ze stala wynosi 1,8350
+
+W porownaniu stala do QuickSort'a jest 2,42, bo:
+150671.79 - srednia liczba porownan;
+https://www.wolframalpha.com/input/?i=x*5050*log2%285050%29+%3D+150671.79+

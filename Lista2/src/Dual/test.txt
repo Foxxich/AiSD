@@ -1,0 +1,1400 @@
+For k = 1
+DualPivotQuicksort for n 100 operation
+Execution time in nanoseconds  : 1400
+Execution time in milliseconds  : 0.0014
+Compares 996
+Moves 334
+
+For k = 1
+Quicksort for n 100 operation descending
+Execution time in nanoseconds  : 1100
+Execution time in milliseconds  : 0.0011
+Compares 1630
+Moves 523
+
+For k = 1
+DualPivotQuicksort for n 200 operation
+Execution time in nanoseconds  : 700
+Execution time in milliseconds  : 7.0E-4
+Compares 2432
+Moves 726
+
+For k = 1
+Quicksort for n 200 operation descending
+Execution time in nanoseconds  : 1200
+Execution time in milliseconds  : 0.0012
+Compares 3281
+Moves 747
+
+For k = 1
+DualPivotQuicksort for n 300 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 4027
+Moves 1132
+
+For k = 1
+Quicksort for n 300 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 5700
+Moves 1841
+
+For k = 1
+DualPivotQuicksort for n 400 operation
+Execution time in nanoseconds  : 500
+Execution time in milliseconds  : 5.0E-4
+Compares 5759
+Moves 1705
+
+For k = 1
+Quicksort for n 400 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 7711
+Moves 2181
+
+For k = 1
+DualPivotQuicksort for n 500 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 7737
+Moves 2013
+
+For k = 1
+Quicksort for n 500 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 9265
+Moves 2320
+
+For k = 1
+DualPivotQuicksort for n 600 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 10007
+Moves 2635
+
+For k = 1
+Quicksort for n 600 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 13663
+Moves 3687
+
+For k = 1
+DualPivotQuicksort for n 700 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 12067
+Moves 3703
+
+For k = 1
+Quicksort for n 700 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 14832
+Moves 4257
+
+For k = 1
+DualPivotQuicksort for n 800 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 14095
+Moves 3595
+
+For k = 1
+Quicksort for n 800 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 18363
+Moves 5271
+
+For k = 1
+DualPivotQuicksort for n 900 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 14573
+Moves 4143
+
+For k = 1
+Quicksort for n 900 operation descending
+Execution time in nanoseconds  : 500
+Execution time in milliseconds  : 5.0E-4
+Compares 18540
+Moves 4814
+
+For k = 1
+DualPivotQuicksort for n 1000 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 16887
+Moves 5197
+
+For k = 1
+Quicksort for n 1000 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 21684
+Moves 5900
+
+For k = 1
+DualPivotQuicksort for n 1100 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 18327
+Moves 5143
+
+For k = 1
+Quicksort for n 1100 operation descending
+Execution time in nanoseconds  : 500
+Execution time in milliseconds  : 5.0E-4
+Compares 24187
+Moves 6235
+
+For k = 1
+DualPivotQuicksort for n 1200 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 21730
+Moves 6136
+
+For k = 1
+Quicksort for n 1200 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 27936
+Moves 8708
+
+For k = 1
+DualPivotQuicksort for n 1300 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 23559
+Moves 7473
+
+For k = 1
+Quicksort for n 1300 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 31007
+Moves 7942
+
+For k = 1
+DualPivotQuicksort for n 1400 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 27868
+Moves 8105
+
+For k = 1
+Quicksort for n 1400 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 38104
+Moves 9331
+
+For k = 1
+DualPivotQuicksort for n 1500 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 26697
+Moves 7642
+
+For k = 1
+Quicksort for n 1500 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 37536
+Moves 9961
+
+For k = 1
+DualPivotQuicksort for n 1600 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 33114
+Moves 7559
+
+For k = 1
+Quicksort for n 1600 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 42511
+Moves 9995
+
+For k = 1
+DualPivotQuicksort for n 1700 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 30427
+Moves 8679
+
+For k = 1
+Quicksort for n 1700 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 39900
+Moves 10342
+
+For k = 1
+DualPivotQuicksort for n 1800 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 34616
+Moves 9209
+
+For k = 1
+Quicksort for n 1800 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 44305
+Moves 11427
+
+For k = 1
+DualPivotQuicksort for n 1900 operation
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 36526
+Moves 9627
+
+For k = 1
+Quicksort for n 1900 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 51504
+Moves 13187
+
+For k = 1
+DualPivotQuicksort for n 2000 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 37792
+Moves 10495
+
+For k = 1
+Quicksort for n 2000 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 48657
+Moves 12709
+
+For k = 1
+DualPivotQuicksort for n 2100 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 42130
+Moves 11139
+
+For k = 1
+Quicksort for n 2100 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 55085
+Moves 13485
+
+For k = 1
+DualPivotQuicksort for n 2200 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 41731
+Moves 12249
+
+For k = 1
+Quicksort for n 2200 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 55890
+Moves 16326
+
+For k = 1
+DualPivotQuicksort for n 2300 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 43817
+Moves 12110
+
+For k = 1
+Quicksort for n 2300 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 60953
+Moves 15755
+
+For k = 1
+DualPivotQuicksort for n 2400 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 45705
+Moves 12939
+
+For k = 1
+Quicksort for n 2400 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 63208
+Moves 18386
+
+For k = 1
+DualPivotQuicksort for n 2500 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 48112
+Moves 13267
+
+For k = 1
+Quicksort for n 2500 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 61799
+Moves 17583
+
+For k = 1
+DualPivotQuicksort for n 2600 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 53812
+Moves 16101
+
+For k = 1
+Quicksort for n 2600 operation descending
+Execution time in nanoseconds  : 100
+Execution time in milliseconds  : 1.0E-4
+Compares 78020
+Moves 22167
+
+For k = 1
+DualPivotQuicksort for n 2700 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 53041
+Moves 14999
+
+For k = 1
+Quicksort for n 2700 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 73129
+Moves 19442
+
+For k = 1
+DualPivotQuicksort for n 2800 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 56221
+Moves 16505
+
+For k = 1
+Quicksort for n 2800 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 74358
+Moves 20853
+
+For k = 1
+DualPivotQuicksort for n 2900 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 59224
+Moves 17314
+
+For k = 1
+Quicksort for n 2900 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 76734
+Moves 21307
+
+For k = 1
+DualPivotQuicksort for n 3000 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 59528
+Moves 16576
+
+For k = 1
+Quicksort for n 3000 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 83110
+Moves 22946
+
+For k = 1
+DualPivotQuicksort for n 3100 operation
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 65246
+Moves 16202
+
+For k = 1
+Quicksort for n 3100 operation descending
+Execution time in nanoseconds  : 600
+Execution time in milliseconds  : 6.0E-4
+Compares 83829
+Moves 20495
+
+For k = 1
+DualPivotQuicksort for n 3200 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 68089
+Moves 16302
+
+For k = 1
+Quicksort for n 3200 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 87221
+Moves 22275
+
+For k = 1
+DualPivotQuicksort for n 3300 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 70091
+Moves 17717
+
+For k = 1
+Quicksort for n 3300 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 90620
+Moves 22194
+
+For k = 1
+DualPivotQuicksort for n 3400 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 73636
+Moves 19220
+
+For k = 1
+Quicksort for n 3400 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 95558
+Moves 23780
+
+For k = 1
+DualPivotQuicksort for n 3500 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 73870
+Moves 20386
+
+For k = 1
+Quicksort for n 3500 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 92343
+Moves 23882
+
+For k = 1
+DualPivotQuicksort for n 3600 operation
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 73800
+Moves 19876
+
+For k = 1
+Quicksort for n 3600 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 103518
+Moves 24476
+
+For k = 1
+DualPivotQuicksort for n 3700 operation
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 79573
+Moves 21284
+
+For k = 1
+Quicksort for n 3700 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 102329
+Moves 24703
+
+For k = 1
+DualPivotQuicksort for n 3800 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 81836
+Moves 23119
+
+For k = 1
+Quicksort for n 3800 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 107535
+Moves 30337
+
+For k = 1
+DualPivotQuicksort for n 3900 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 81903
+Moves 22446
+
+For k = 1
+Quicksort for n 3900 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 105193
+Moves 27592
+
+For k = 1
+DualPivotQuicksort for n 4000 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 94453
+Moves 27454
+
+For k = 1
+Quicksort for n 4000 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 121486
+Moves 36388
+
+For k = 1
+DualPivotQuicksort for n 4100 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 86692
+Moves 22302
+
+For k = 1
+Quicksort for n 4100 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 117822
+Moves 32331
+
+For k = 1
+DualPivotQuicksort for n 4200 operation
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 86866
+Moves 24048
+
+For k = 1
+Quicksort for n 4200 operation descending
+Execution time in nanoseconds  : 500
+Execution time in milliseconds  : 5.0E-4
+Compares 115130
+Moves 33852
+
+For k = 1
+DualPivotQuicksort for n 4300 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 90212
+Moves 25693
+
+For k = 1
+Quicksort for n 4300 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 122024
+Moves 35364
+
+For k = 1
+DualPivotQuicksort for n 4400 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 101290
+Moves 30351
+
+For k = 1
+Quicksort for n 4400 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 133026
+Moves 32987
+
+For k = 1
+DualPivotQuicksort for n 4500 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 96610
+Moves 26672
+
+For k = 1
+Quicksort for n 4500 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 124703
+Moves 34342
+
+For k = 1
+DualPivotQuicksort for n 4600 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 96676
+Moves 25752
+
+For k = 1
+Quicksort for n 4600 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 124957
+Moves 34909
+
+For k = 1
+DualPivotQuicksort for n 4700 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 99538
+Moves 26902
+
+For k = 1
+Quicksort for n 4700 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 129614
+Moves 33206
+
+For k = 1
+DualPivotQuicksort for n 4800 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 100798
+Moves 30512
+
+For k = 1
+Quicksort for n 4800 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 151726
+Moves 36773
+
+For k = 1
+DualPivotQuicksort for n 4900 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 105795
+Moves 27880
+
+For k = 1
+Quicksort for n 4900 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 134155
+Moves 35032
+
+For k = 1
+DualPivotQuicksort for n 5000 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 117522
+Moves 29575
+
+For k = 1
+Quicksort for n 5000 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 148996
+Moves 44509
+
+For k = 1
+DualPivotQuicksort for n 5100 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 119045
+Moves 31060
+
+For k = 1
+Quicksort for n 5100 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 160146
+Moves 40637
+
+For k = 1
+DualPivotQuicksort for n 5200 operation
+Execution time in nanoseconds  : 900
+Execution time in milliseconds  : 9.0E-4
+Compares 110758
+Moves 29471
+
+For k = 1
+Quicksort for n 5200 operation descending
+Execution time in nanoseconds  : 500
+Execution time in milliseconds  : 5.0E-4
+Compares 150434
+Moves 40484
+
+For k = 1
+DualPivotQuicksort for n 5300 operation
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 115599
+Moves 32221
+
+For k = 1
+Quicksort for n 5300 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 150491
+Moves 40911
+
+For k = 1
+DualPivotQuicksort for n 5400 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 118346
+Moves 31946
+
+For k = 1
+Quicksort for n 5400 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 162670
+Moves 45636
+
+For k = 1
+DualPivotQuicksort for n 5500 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 131482
+Moves 34069
+
+For k = 1
+Quicksort for n 5500 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 163033
+Moves 44631
+
+For k = 1
+DualPivotQuicksort for n 5600 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 122079
+Moves 32960
+
+For k = 1
+Quicksort for n 5600 operation descending
+Execution time in nanoseconds  : 500
+Execution time in milliseconds  : 5.0E-4
+Compares 156133
+Moves 40752
+
+For k = 1
+DualPivotQuicksort for n 5700 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 136260
+Moves 35317
+
+For k = 1
+Quicksort for n 5700 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 171587
+Moves 39199
+
+For k = 1
+DualPivotQuicksort for n 5800 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 130027
+Moves 34000
+
+For k = 1
+Quicksort for n 5800 operation descending
+Execution time in nanoseconds  : 500
+Execution time in milliseconds  : 5.0E-4
+Compares 170229
+Moves 44361
+
+For k = 1
+DualPivotQuicksort for n 5900 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 137215
+Moves 37260
+
+For k = 1
+Quicksort for n 5900 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 178802
+Moves 48997
+
+For k = 1
+DualPivotQuicksort for n 6000 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 137011
+Moves 37655
+
+For k = 1
+Quicksort for n 6000 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 183403
+Moves 47823
+
+For k = 1
+DualPivotQuicksort for n 6100 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 134731
+Moves 35842
+
+For k = 1
+Quicksort for n 6100 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 175694
+Moves 44581
+
+For k = 1
+DualPivotQuicksort for n 6200 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 139189
+Moves 38165
+
+For k = 1
+Quicksort for n 6200 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 182010
+Moves 45070
+
+For k = 1
+DualPivotQuicksort for n 6300 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 142574
+Moves 37323
+
+For k = 1
+Quicksort for n 6300 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 179976
+Moves 50675
+
+For k = 1
+DualPivotQuicksort for n 6400 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 142856
+Moves 38158
+
+For k = 1
+Quicksort for n 6400 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 191905
+Moves 47327
+
+For k = 1
+DualPivotQuicksort for n 6500 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 146974
+Moves 37702
+
+For k = 1
+Quicksort for n 6500 operation descending
+Execution time in nanoseconds  : 500
+Execution time in milliseconds  : 5.0E-4
+Compares 184875
+Moves 49745
+
+For k = 1
+DualPivotQuicksort for n 6600 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 148319
+Moves 43587
+
+For k = 1
+Quicksort for n 6600 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 190133
+Moves 51273
+
+For k = 1
+DualPivotQuicksort for n 6700 operation
+Execution time in nanoseconds  : 500
+Execution time in milliseconds  : 5.0E-4
+Compares 147788
+Moves 40502
+
+For k = 1
+Quicksort for n 6700 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 203492
+Moves 58824
+
+For k = 1
+DualPivotQuicksort for n 6800 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 150214
+Moves 39395
+
+For k = 1
+Quicksort for n 6800 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 201847
+Moves 53355
+
+For k = 1
+DualPivotQuicksort for n 6900 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 166322
+Moves 47024
+
+For k = 1
+Quicksort for n 6900 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 235478
+Moves 68336
+
+For k = 1
+DualPivotQuicksort for n 7000 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 165526
+Moves 47337
+
+For k = 1
+Quicksort for n 7000 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 214238
+Moves 63561
+
+For k = 1
+DualPivotQuicksort for n 7100 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 166278
+Moves 44231
+
+For k = 1
+Quicksort for n 7100 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 217394
+Moves 62683
+
+For k = 1
+DualPivotQuicksort for n 7200 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 167647
+Moves 47065
+
+For k = 1
+Quicksort for n 7200 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 219983
+Moves 57001
+
+For k = 1
+DualPivotQuicksort for n 7300 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 177324
+Moves 44147
+
+For k = 1
+Quicksort for n 7300 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 214930
+Moves 51128
+
+For k = 1
+DualPivotQuicksort for n 7400 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 174418
+Moves 47655
+
+For k = 1
+Quicksort for n 7400 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 221611
+Moves 56719
+
+For k = 1
+DualPivotQuicksort for n 7500 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 169942
+Moves 46623
+
+For k = 1
+Quicksort for n 7500 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 225375
+Moves 59577
+
+For k = 1
+DualPivotQuicksort for n 7600 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 171044
+Moves 48468
+
+For k = 1
+Quicksort for n 7600 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 229862
+Moves 65280
+
+For k = 1
+DualPivotQuicksort for n 7700 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 172483
+Moves 47811
+
+For k = 1
+Quicksort for n 7700 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 236050
+Moves 59491
+
+For k = 1
+DualPivotQuicksort for n 7800 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 183668
+Moves 48465
+
+For k = 1
+Quicksort for n 7800 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 241192
+Moves 66373
+
+For k = 1
+DualPivotQuicksort for n 7900 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 180952
+Moves 48285
+
+For k = 1
+Quicksort for n 7900 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 237821
+Moves 66621
+
+For k = 1
+DualPivotQuicksort for n 8000 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 191089
+Moves 53362
+
+For k = 1
+Quicksort for n 8000 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 254471
+Moves 72389
+
+For k = 1
+DualPivotQuicksort for n 8100 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 189417
+Moves 51428
+
+For k = 1
+Quicksort for n 8100 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 272255
+Moves 71476
+
+For k = 1
+DualPivotQuicksort for n 8200 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 195741
+Moves 50729
+
+For k = 1
+Quicksort for n 8200 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 250025
+Moves 70584
+
+For k = 1
+DualPivotQuicksort for n 8300 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 192762
+Moves 51484
+
+For k = 1
+Quicksort for n 8300 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 259809
+Moves 72262
+
+For k = 1
+DualPivotQuicksort for n 8400 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 196846
+Moves 55354
+
+For k = 1
+Quicksort for n 8400 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 250958
+Moves 67039
+
+For k = 1
+DualPivotQuicksort for n 8500 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 192988
+Moves 51384
+
+For k = 1
+Quicksort for n 8500 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 265350
+Moves 68832
+
+For k = 1
+DualPivotQuicksort for n 8600 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 198915
+Moves 51604
+
+For k = 1
+Quicksort for n 8600 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 281062
+Moves 78069
+
+For k = 1
+DualPivotQuicksort for n 8700 operation
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 206114
+Moves 61128
+
+For k = 1
+Quicksort for n 8700 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 277123
+Moves 72645
+
+For k = 1
+DualPivotQuicksort for n 8800 operation
+Execution time in nanoseconds  : 100
+Execution time in milliseconds  : 1.0E-4
+Compares 213217
+Moves 54096
+
+For k = 1
+Quicksort for n 8800 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 270833
+Moves 78491
+
+For k = 1
+DualPivotQuicksort for n 8900 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 218647
+Moves 58708
+
+For k = 1
+Quicksort for n 8900 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 292897
+Moves 80196
+
+For k = 1
+DualPivotQuicksort for n 9000 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 211545
+Moves 56967
+
+For k = 1
+Quicksort for n 9000 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 266147
+Moves 71165
+
+For k = 1
+DualPivotQuicksort for n 9100 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 223383
+Moves 54720
+
+For k = 1
+Quicksort for n 9100 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 285539
+Moves 70710
+
+For k = 1
+DualPivotQuicksort for n 9200 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 219696
+Moves 59268
+
+For k = 1
+Quicksort for n 9200 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 335667
+Moves 98486
+
+For k = 1
+DualPivotQuicksort for n 9300 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 223330
+Moves 58984
+
+For k = 1
+Quicksort for n 9300 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 278098
+Moves 70148
+
+For k = 1
+DualPivotQuicksort for n 9400 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 226179
+Moves 57893
+
+For k = 1
+Quicksort for n 9400 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 289313
+Moves 75582
+
+For k = 1
+DualPivotQuicksort for n 9500 operation
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 229793
+Moves 60642
+
+For k = 1
+Quicksort for n 9500 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 289312
+Moves 73678
+
+For k = 1
+DualPivotQuicksort for n 9600 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 228349
+Moves 62397
+
+For k = 1
+Quicksort for n 9600 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 308746
+Moves 78700
+
+For k = 1
+DualPivotQuicksort for n 9700 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 230155
+Moves 64006
+
+For k = 1
+Quicksort for n 9700 operation descending
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 303216
+Moves 82105
+
+For k = 1
+DualPivotQuicksort for n 9800 operation
+Execution time in nanoseconds  : 300
+Execution time in milliseconds  : 3.0E-4
+Compares 235030
+Moves 62475
+
+For k = 1
+Quicksort for n 9800 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 323897
+Moves 91587
+
+For k = 1
+DualPivotQuicksort for n 9900 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 229800
+Moves 66549
+
+For k = 1
+Quicksort for n 9900 operation descending
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 312729
+Moves 81334
+
+For k = 1
+DualPivotQuicksort for n 10000 operation
+Execution time in nanoseconds  : 200
+Execution time in milliseconds  : 2.0E-4
+Compares 247356
+Moves 64531
+
+For k = 1
+Quicksort for n 10000 operation descending
+Execution time in nanoseconds  : 400
+Execution time in milliseconds  : 4.0E-4
+Compares 320447
+Moves 78410
+

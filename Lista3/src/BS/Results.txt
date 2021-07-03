@@ -1,0 +1,57 @@
+Numbers - 100
+AVG number = 50500
+I sposob
+statBSstart:
+209.0 14.0
+O(1) dla : czas = 13.377
+O(1) dla : compare = 0.89606
+
+statBSrandom:
+202.0 14.0
+O(1) dla : czas = 12.929
+O(1) dla : compare = 0.89606
+
+statBSoutof:
+223.0 16.0
+O(1) dla : czas = 14.273
+O(1) dla : compare = 1.0241
+
+statBSend:
+281.0 14.0
+O(1) dla : czas = 17.985
+O(1) dla : compare = 0.89606
+
+statBScenter:
+278.0 14.0
+O(1) dla : czas = 17.793
+O(1) dla : compare = 0.89606
+
+https://www.wolframalpha.com/input/?i=log2%2850500%29+*+%28stala%29+%3D+%28czas+or+compares%29
+
+II sposob
+statBSstart:
+209.0 14.0
+O(1) dla : czas = 193.38
+O(1) dla : compare = -1.6240
+
+statBSrandom:
+202.0 14.0
+O(1) dla : czas = 186.38
+O(1) dla : compare = -1.6240
+
+statBSoutof:
+223.0 16.0
+O(1) dla : czas = 207.38
+O(1) dla : compare = 0.37600
+
+statBSend:
+281.0 14.0
+O(1) dla : czas = 265.38
+O(1) dla : compare = -1.6240
+
+statBScenter:
+278.0 14.0
+O(1) dla : czas = 262.38
+O(1) dla : compare = -1.6240
+
+https://www.wolframalpha.com/input/?i=log2%2850500%29+%2B+%28stala%29+%3D+%28czas%2Fcompares%29

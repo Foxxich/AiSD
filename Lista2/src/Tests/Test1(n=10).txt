@@ -1,0 +1,288 @@
+Not sorted elements!
+284  38  3  40  296  280  203  291  75  174
+
+For n  : 10 InsertionSort
+In order : descending
+Execution time in nanoseconds  : 7000
+Execution time in milliseconds  : 0.007
+Element[296, 291, 284, 280, 203, 174, 75, 40, 38, 3]
+Compares 33
+Moves 34
+
+For n  : 10 InsertionSort
+In order : ascending
+Execution time in nanoseconds  : 5900
+Execution time in milliseconds  : 0.0059
+Element[3, 38, 40, 75, 174, 203, 280, 284, 291, 296]
+Compares 27
+Moves 29
+
+For n  : 10 MergeSort
+In order : descending
+Execution time in nanoseconds  : 15500
+Execution time in milliseconds  : 0.0155
+Element[296, 291, 284, 280, 203, 174, 75, 40, 38, 3]
+Compares 34
+Moves 68
+
+For n  : 10 MergeSort
+In order : ascending
+Execution time in nanoseconds  : 11300
+Execution time in milliseconds  : 0.0113
+Element[3, 38, 40, 75, 174, 203, 280, 284, 291, 296]
+Compares 34
+Moves 68
+
+For n  : 10 QuickSort
+In order : ascending
+Execution time in nanoseconds  : 8000
+Execution time in milliseconds  : 0.008
+Element[3, 38, 40, 75, 174, 203, 280, 284, 291, 296]
+Compares 53
+Moves 22
+
+For n  : 10 QuickSort
+In order : descending
+Execution time in nanoseconds  : 8800
+Execution time in milliseconds  : 0.0088
+Element[296, 291, 284, 280, 203, 174, 75, 40, 38, 3]
+Compares 51
+Moves 16
+
+DUAL
+For n  : 10
+In order : descending
+Execution time in nanoseconds  : 11700
+Execution time in milliseconds  : 0.0117
+Element[296, 291, 284, 280, 203, 174, 75, 40, 38, 3]
+Compares 33
+Moves 21
+
+DUAL
+For n  : 10
+In order : descending
+Execution time in nanoseconds  : 24800
+Execution time in milliseconds  : 0.0248
+Element[296, 291, 284, 280, 203, 174, 75, 40, 38, 3]
+Compares 40
+Moves 21
+
+________________________________________________
+Lowest to highest!
+25  130  139  163  166  171  189  209  258  266
+
+For n  : 10 InsertionSort
+In order : ascending
+Execution time in nanoseconds  : 5600
+Execution time in milliseconds  : 0.0056
+Element[25, 130, 139, 163, 166, 171, 189, 209, 258, 266]
+Compares 9
+Moves 9
+
+For n  : 10 InsertionSort
+In order : descending
+Execution time in nanoseconds  : 10200
+Execution time in milliseconds  : 0.0102
+Element[266, 258, 209, 189, 171, 166, 163, 139, 130, 25]
+Compares 45
+Moves 54
+
+For n  : 10 MergeSort
+In order : descending
+Execution time in nanoseconds  : 12000
+Execution time in milliseconds  : 0.012
+Element[266, 258, 209, 189, 171, 166, 163, 139, 130, 25]
+Compares 34
+Moves 68
+
+
+For n  : 10 MergeSort
+In order : ascending
+Execution time in nanoseconds  : 6800
+Execution time in milliseconds  : 0.0068
+Element[25, 130, 139, 163, 166, 171, 189, 209, 258, 266]
+Compares 34
+Moves 68
+
+For n  : 10 QuickSort
+In order : ascending
+Execution time in nanoseconds  : 17500
+Execution time in milliseconds  : 0.0175
+Element[25, 130, 139, 163, 166, 171, 189, 209, 258, 266]
+Compares 99
+Moves 54
+
+For n  : 10 QuickSort
+In order : descending
+Execution time in nanoseconds  : 17900
+Execution time in milliseconds  : 0.0179
+Element[266, 258, 209, 189, 171, 166, 163, 139, 130, 25]
+Compares 74
+Moves 29
+
+DUAL
+For n  : 10
+In order : descending
+Execution time in nanoseconds  : 28400
+Execution time in milliseconds  : 0.0284
+Element[266, 258, 209, 189, 171, 166, 163, 139, 130, 25]
+Compares 62
+Moves 23
+
+DUAL
+For n  : 10
+In order : ascending
+Execution time in nanoseconds  : 23000
+Execution time in milliseconds  : 0.023
+Element[25, 130, 139, 163, 166, 171, 189, 209, 258, 266]
+Compares 56
+Moves 18
+________________________________________________
+Highest to lowest!
+291  284  211  200  168  141  106  81  69  39
+
+For n  : 10 InsertionSort
+In order : ascending
+Execution time in nanoseconds  : 11800
+Execution time in milliseconds  : 0.0118
+Element[39, 69, 81, 106, 141, 168, 200, 211, 284, 291]
+Compares 45
+Moves 54
+
+For n  : 10 InsertionSort
+In order : descending
+Execution time in nanoseconds  : 6800
+Execution time in milliseconds  : 0.0068
+Element[291, 284, 211, 200, 168, 141, 106, 81, 69, 39]
+Compares 9
+Moves 9
+
+For n  : 10 MergeSort
+In order : descending
+Execution time in nanoseconds  : 11700
+Execution time in milliseconds  : 0.0117
+Element[291, 284, 211, 200, 168, 141, 106, 81, 69, 39]
+Compares 34
+Moves 68
+
+For n  : 10 MergeSort
+In order : ascending
+Execution time in nanoseconds  : 7300
+Execution time in milliseconds  : 0.0073
+Element[39, 69, 81, 106, 141, 168, 200, 211, 284, 291]
+Compares 34
+Moves 68
+
+For n  : 10 QuickSort
+In order : descending
+Execution time in nanoseconds  : 18400
+Execution time in milliseconds  : 0.0184
+Element[291, 284, 211, 200, 168, 141, 106, 81, 69, 39]
+Compares 99
+Moves 54
+
+For n  : 10 QuickSort
+In order : ascending
+Execution time in nanoseconds  : 9000
+Execution time in milliseconds  : 0.009
+Element[39, 69, 81, 106, 141, 168, 200, 211, 284, 291]
+Compares 99
+Moves 29
+
+DUAL 
+For n  : 10
+In order : ascending
+Execution time in nanoseconds  : 22500
+Execution time in milliseconds  : 0.0225
+Element[39, 69, 81, 106, 141, 168, 200, 211, 284, 291]
+Compares 62
+Moves 23
+
+DUAL
+291  284  211  200  168  141  106  81  69  39
+For n  : 10
+In order : descending
+Execution time in nanoseconds  : 23100
+Execution time in milliseconds  : 0.0231
+Element[291, 284, 211, 200, 168, 141, 106, 81, 69, 39]
+Compares 56
+Moves 18
+
+
+_______________________________________________
+Hybrid
+1)
+
+Give the name of object:
+java.lang.Integer
+54756
+62707
+79499
+79857
+16224
+77886
+29775
+33904
+28522
+50221
+For n  : 10 Hybrid
+In order : descending
+Execution time in nanoseconds  : 0
+Execution time in milliseconds  : 0.0
+Compares 0
+Moves 0
+
+________________________
+79857
+79499
+77886
+62707
+54756
+50221
+33904
+29775
+28522
+16224
+For n  : 10 Hybrid
+In order : descending
+Execution time in nanoseconds  : 69900
+Execution time in milliseconds  : 0.0699
+Compares 18
+Moves 26
+
+2)Give the name of object:
+java.lang.Integer
+52047
+61036
+85925
+84300
+2081
+13722
+51760
+41627
+11444
+32559
+For n  : 10 Hybrid
+In order : ascending
+Execution time in nanoseconds  : 0
+Execution time in milliseconds  : 0.0
+Compares 0
+Moves 0
+
+________________________
+2081
+11444
+13722
+32559
+41627
+51760
+52047
+61036
+84300
+85925
+For n  : 10 Hybrid
+In order : ascending
+Execution time in nanoseconds  : 146700
+Execution time in milliseconds  : 0.1467
+Compares 32
+Moves 40

@@ -1,0 +1,22 @@
+bucketNumber: 204800
+actualSize: 125982
+
+Number of compares insert: 314824
+Number of compares delete: 4
+Number of compares search: 184
+
+Time insert: 66060428498
+Time delete: 14200
+Time search: 23760600
+
+Count of inserts: 269320
+Count of deletes: 1
+Count of searches: 64
+
+Successful searches: 59
+Max number of elements: 269319
+Current number of elements: 269319
+
+Size of hMap: 125982
+
+Process finished with exit code 0

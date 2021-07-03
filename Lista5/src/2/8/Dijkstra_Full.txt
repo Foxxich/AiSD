@@ -1,0 +1,200 @@
+For i 1
+Compares 33
+Time 87300
+
+For i 2
+Compares 33
+Time 53600
+
+For i 3
+Compares 33
+Time 52901
+
+For i 4
+Compares 33
+Time 37700
+
+For i 5
+Compares 33
+Time 31400
+
+For i 6
+Compares 33
+Time 36200
+
+For i 7
+Compares 33
+Time 38800
+
+For i 8
+Compares 33
+Time 43600
+
+For i 9
+Compares 33
+Time 51199
+
+For i 10
+Compares 33
+Time 30600
+
+For i 11
+Compares 33
+Time 37900
+
+For i 12
+Compares 33
+Time 35599
+
+For i 13
+Compares 33
+Time 47800
+
+For i 14
+Compares 33
+Time 40700
+
+For i 15
+Compares 33
+Time 44200
+
+For i 16
+Compares 33
+Time 128299
+
+For i 17
+Compares 33
+Time 33600
+
+For i 18
+Compares 33
+Time 26600
+
+For i 19
+Compares 33
+Time 31900
+
+For i 20
+Compares 33
+Time 21100
+
+For i 21
+Compares 33
+Time 25300
+
+For i 22
+Compares 33
+Time 26200
+
+For i 23
+Compares 33
+Time 21399
+
+For i 24
+Compares 33
+Time 61899
+
+For i 25
+Compares 33
+Time 34500
+
+For i 26
+Compares 33
+Time 23700
+
+For i 27
+Compares 33
+Time 22100
+
+For i 28
+Compares 33
+Time 25201
+
+For i 29
+Compares 33
+Time 26100
+
+For i 30
+Compares 33
+Time 24900
+
+For i 31
+Compares 33
+Time 25000
+
+For i 32
+Compares 33
+Time 26000
+
+For i 33
+Compares 33
+Time 24400
+
+For i 34
+Compares 33
+Time 22600
+
+For i 35
+Compares 33
+Time 26199
+
+For i 36
+Compares 33
+Time 26000
+
+For i 37
+Compares 33
+Time 21600
+
+For i 38
+Compares 33
+Time 21600
+
+For i 39
+Compares 33
+Time 21300
+
+For i 40
+Compares 33
+Time 23401
+
+For i 41
+Compares 33
+Time 33900
+
+For i 42
+Compares 33
+Time 21600
+
+For i 43
+Compares 33
+Time 29100
+
+For i 44
+Compares 33
+Time 26500
+
+For i 45
+Compares 33
+Time 18199
+
+For i 46
+Compares 33
+Time 18000
+
+For i 47
+Compares 33
+Time 18401
+
+For i 48
+Compares 33
+Time 23800
+
+For i 49
+Compares 33
+Time 25601
+
+For i 50
+Compares 33
+Time 17300
+

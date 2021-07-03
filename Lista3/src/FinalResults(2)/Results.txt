@@ -1,0 +1,2 @@
+Stala k, ktora jest potrzebna w algorytmie Select, jest najwazniejsza czescia algorytmu. Dziekie jej powiekszaniu liczba porownan, skokow oraz czas dzialania sa mniejsze kazdego razu. Ale natomiast w niektorych przypadkach odchylenie moze byc 
+gorsze, niz w poprzednich przypadkach. 

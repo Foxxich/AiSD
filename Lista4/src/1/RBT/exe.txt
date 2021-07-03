@@ -1,0 +1,30 @@
+rbt
+max
+min 
+find aaa
+insert aaa
+insert bbb
+insert tet
+insert test
+find aaa
+max
+min
+delete tet
+successor k
+delete test
+delete aaa
+max
+min
+find test
+load sample.txt
+find three
+delete three
+find three
+delete three
+delete three
+find three
+find Three
+max
+min
+find two
+inorder

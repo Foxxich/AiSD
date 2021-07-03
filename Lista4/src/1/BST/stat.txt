@@ -1,0 +1,24 @@
+BST
+Total time 68480300
+Inserts 59
+Delete  5
+Inorder  1
+Find  8
+Max  4
+Min  4
+Successor  1
+Max number of elements 56
+Final number of elements 54
+Insert time 3206
+Delete time 5480
+Inorder time 1335900
+Find time 624025
+Max time 774800
+Min time 46250
+Successor time 116000
+Total compares Insert 58
+Total compares Delete 30
+Total compares Find 41
+Total compares Max 4
+Total compares Min 4
+Total compares Successor 4

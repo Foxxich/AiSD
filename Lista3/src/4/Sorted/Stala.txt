@@ -1,0 +1,23 @@
+Korzystajac ze skriptu, obliczamy ze srednia liczna porownan dla sredniego n dla MQS (n/100 , gdzie n = 505000) wynosi 114017.03. Podstawiajac do Wolfram, 
+
+https://www.wolframalpha.com/input/?i=x*5050*log2%285050%29+%3D+57989.41
+https://www.wolframalpha.com/input/?i=x*5050*log2%285050%29+%3D+16914975
+https://www.wolframalpha.com/input/?i=x*5050*log2%285050%29+%3D+11293478.77
+
+ze stala wynosi :
+1)0.933425
+2)0.933425
+3)0.933425
+AVG = 0.933425
+
+W porownaniu stala do QuickSort'a wynosi: 
+1)272.27
+2)272.27
+3)272.27
+AVG = 272.27
+
+Oraz stala do Dual'a wynosi: 
+1)181.785
+2)181.785
+3)181.785
+AVG = 181.785

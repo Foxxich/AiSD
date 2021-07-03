@@ -1,0 +1,351 @@
+Size = 100
+Insert compares = 237
+Print compares = 152
+Priority compares = 25126
+Pop compares = 8724
+Time 2814900
+
+Size = 100
+Insert compares = 193
+Print compares = 152
+Priority compares = 25222
+Pop compares = 8683
+Time 2386700
+
+Size = 100
+Insert compares = 231
+Print compares = 152
+Priority compares = 25129
+Pop compares = 8607
+Time 3049800
+
+Size = 100
+Insert compares = 219
+Print compares = 152
+Priority compares = 25147
+Pop compares = 8659
+Time 1941100
+
+Size = 100
+Insert compares = 206
+Print compares = 152
+Priority compares = 25147
+Pop compares = 8632
+Time 1557200
+
+Size = 100
+Insert compares = 219
+Print compares = 152
+Priority compares = 25132
+Pop compares = 8656
+Time 1280100
+
+Size = 100
+Insert compares = 211
+Print compares = 152
+Priority compares = 25123
+Pop compares = 8638
+Time 1255100
+
+Size = 100
+Insert compares = 209
+Print compares = 152
+Priority compares = 25144
+Pop compares = 8598
+Time 1220800
+
+Size = 100
+Insert compares = 202
+Print compares = 152
+Priority compares = 25159
+Pop compares = 8624
+Time 1780900
+
+Size = 100
+Insert compares = 213
+Print compares = 152
+Priority compares = 25192
+Pop compares = 8595
+Time 1807300
+
+Size = 100
+Insert compares = 211
+Print compares = 152
+Priority compares = 25165
+Pop compares = 8571
+Time 1837200
+
+Size = 100
+Insert compares = 211
+Print compares = 152
+Priority compares = 25144
+Pop compares = 8610
+Time 1910900
+
+Size = 100
+Insert compares = 216
+Print compares = 152
+Priority compares = 25126
+Pop compares = 8625
+Time 1689200
+
+Size = 100
+Insert compares = 214
+Print compares = 152
+Priority compares = 25123
+Pop compares = 8635
+Time 1292800
+
+Size = 100
+Insert compares = 208
+Print compares = 152
+Priority compares = 25129
+Pop compares = 8643
+Time 1000100
+
+Size = 100
+Insert compares = 216
+Print compares = 152
+Priority compares = 25144
+Pop compares = 8651
+Time 1056100
+
+Size = 100
+Insert compares = 238
+Print compares = 152
+Priority compares = 25135
+Pop compares = 8577
+Time 996600
+
+Size = 100
+Insert compares = 221
+Print compares = 152
+Priority compares = 25156
+Pop compares = 8596
+Time 349000
+
+Size = 100
+Insert compares = 222
+Print compares = 152
+Priority compares = 25174
+Pop compares = 8650
+Time 484100
+
+Size = 100
+Insert compares = 207
+Print compares = 152
+Priority compares = 25204
+Pop compares = 8574
+Time 492600
+
+Size = 100
+Insert compares = 245
+Print compares = 152
+Priority compares = 25165
+Pop compares = 8664
+Time 479600
+
+Size = 100
+Insert compares = 223
+Print compares = 152
+Priority compares = 25123
+Pop compares = 8607
+Time 508100
+
+Size = 100
+Insert compares = 249
+Print compares = 152
+Priority compares = 25117
+Pop compares = 8655
+Time 508600
+
+Size = 100
+Insert compares = 211
+Print compares = 152
+Priority compares = 25138
+Pop compares = 8706
+Time 547600
+
+Size = 100
+Insert compares = 223
+Print compares = 152
+Priority compares = 25129
+Pop compares = 8602
+Time 366600
+
+Size = 100
+Insert compares = 248
+Print compares = 152
+Priority compares = 25156
+Pop compares = 8607
+Time 381200
+
+Size = 100
+Insert compares = 222
+Print compares = 152
+Priority compares = 25138
+Pop compares = 8607
+Time 333200
+
+Size = 100
+Insert compares = 228
+Print compares = 152
+Priority compares = 25120
+Pop compares = 8599
+Time 301000
+
+Size = 100
+Insert compares = 209
+Print compares = 152
+Priority compares = 25228
+Pop compares = 8738
+Time 720900
+
+Size = 100
+Insert compares = 229
+Print compares = 152
+Priority compares = 25147
+Pop compares = 8616
+Time 462400
+
+Size = 100
+Insert compares = 238
+Print compares = 152
+Priority compares = 25132
+Pop compares = 8632
+Time 673900
+
+Size = 100
+Insert compares = 242
+Print compares = 152
+Priority compares = 25174
+Pop compares = 8656
+Time 459200
+
+Size = 100
+Insert compares = 217
+Print compares = 152
+Priority compares = 25123
+Pop compares = 8691
+Time 330000
+
+Size = 100
+Insert compares = 215
+Print compares = 152
+Priority compares = 25108
+Pop compares = 8594
+Time 490000
+
+Size = 100
+Insert compares = 221
+Print compares = 152
+Priority compares = 25111
+Pop compares = 8616
+Time 433800
+
+Size = 100
+Insert compares = 225
+Print compares = 152
+Priority compares = 25078
+Pop compares = 8574
+Time 478600
+
+Size = 100
+Insert compares = 238
+Print compares = 152
+Priority compares = 25153
+Pop compares = 8625
+Time 433900
+
+Size = 100
+Insert compares = 213
+Print compares = 152
+Priority compares = 25177
+Pop compares = 8641
+Time 1131300
+
+Size = 100
+Insert compares = 226
+Print compares = 152
+Priority compares = 25195
+Pop compares = 8659
+Time 461400
+
+Size = 100
+Insert compares = 223
+Print compares = 152
+Priority compares = 25126
+Pop compares = 8684
+Time 412900
+
+Size = 100
+Insert compares = 207
+Print compares = 152
+Priority compares = 25150
+Pop compares = 8647
+Time 485000
+
+Size = 100
+Insert compares = 230
+Print compares = 152
+Priority compares = 25117
+Pop compares = 8619
+Time 367400
+
+Size = 100
+Insert compares = 225
+Print compares = 152
+Priority compares = 25120
+Pop compares = 8646
+Time 394200
+
+Size = 100
+Insert compares = 206
+Print compares = 152
+Priority compares = 25120
+Pop compares = 8647
+Time 316500
+
+Size = 100
+Insert compares = 247
+Print compares = 152
+Priority compares = 25099
+Pop compares = 8629
+Time 351100
+
+Size = 100
+Insert compares = 231
+Print compares = 152
+Priority compares = 25150
+Pop compares = 8677
+Time 308500
+
+Size = 100
+Insert compares = 209
+Print compares = 152
+Priority compares = 25135
+Pop compares = 8626
+Time 298800
+
+Size = 100
+Insert compares = 228
+Print compares = 152
+Priority compares = 25171
+Pop compares = 8607
+Time 288700
+
+Size = 100
+Insert compares = 234
+Print compares = 152
+Priority compares = 25198
+Pop compares = 8644
+Time 300900
+
+Size = 100
+Insert compares = 234
+Print compares = 152
+Priority compares = 25153
+Pop compares = 8691
+Time 274200
+
+

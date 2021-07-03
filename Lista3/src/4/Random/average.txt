@@ -1,0 +1,32 @@
+medianQS1 && QS1
+Time:
+medianQS1 - 0.28470803
+QS1 - 0.302931
+Compares:
+medianQS1 - 436459
+QS1 - 73689
+Moves:
+medianQS1 - 436459
+QS1 - 41291
+
+medianQS10 && QS10
+Time:
+medianQS10 - 0.26078598
+QS10 - 0.27378094
+Compares:
+medianQS10 - 12536958
+QS10 - 73402
+Moves:
+medianQS10 - 12536958
+QS10 - 41283
+
+medianQS100 && QS100
+Time:
+medianQS100 - 0.26479305
+QS100 - 0.28177300000000005
+Compares:
+medianQS100 - 133538583
+QS100 - 74034
+Moves:
+medianQS100 - 133538583
+QS100 - 41720
